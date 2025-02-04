@@ -1,5 +1,7 @@
 # Data files
 data/
+*.pkl
+*.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
